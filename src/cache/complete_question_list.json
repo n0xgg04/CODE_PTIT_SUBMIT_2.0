@@ -1,0 +1,82 @@
+[
+    {
+        "problemName": "Welcome to python",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY00000",
+        "problemID": "PY00000",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "HELLO",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01000",
+        "problemID": "PY01000",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA CHẴN LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01001",
+        "problemID": "PY01001",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PHÉP CỘNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01002",
+        "problemID": "PY01002",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LÀM TRÒN SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01003",
+        "problemID": "PY01003",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHUYỂN THÀNH CHỮ HOA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01008",
+        "problemID": "PY01008",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẦU CUỐI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01010",
+        "problemID": "PY01010",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÁCH TỪ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01028",
+        "problemID": "PY01028",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01047",
+        "problemID": "PY01047",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ CHIA HẾT CHO 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01053",
+        "problemID": "PY01053",
+        "problemStatus": "Complete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    }
+]

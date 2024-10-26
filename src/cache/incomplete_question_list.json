@@ -1,0 +1,2242 @@
+[
+    {
+        "problemName": "THU GỌN DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0101",
+        "problemID": "ICPC0101",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÌM SỐ NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0104",
+        "problemID": "ICPC0104",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÌM SỐ LỚN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0105",
+        "problemID": "ICPC0105",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐỔI CƠ SỐ - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0106",
+        "problemID": "ICPC0106",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "THAY ĐỔI CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0107",
+        "problemID": "ICPC0107",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SUM TRIPLE ZERO",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0108",
+        "problemID": "ICPC0108",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MIN TRIPLE",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0109",
+        "problemID": "ICPC0109",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MAX TRIPLE",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0110",
+        "problemID": "ICPC0110",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XOAY MẢNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0111",
+        "problemID": "ICPC0111",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PRIME – TRIPLET",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0112",
+        "problemID": "ICPC0112",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "EMIRP NUMBER",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0113",
+        "problemID": "ICPC0113",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PERFECT PRIME",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0114",
+        "problemID": "ICPC0114",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ KRISH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0115",
+        "problemID": "ICPC0115",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CON SỐ DUYÊN NỢ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0116",
+        "problemID": "ICPC0116",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHÚC MỪNG NĂM MỚI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0117",
+        "problemID": "ICPC0117",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CUNG HOÀNG ĐẠO",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0118",
+        "problemID": "ICPC0118",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01004",
+        "problemID": "PY01004",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ MAY MẮN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01005",
+        "problemID": "PY01005",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ MAY MẮN - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01006",
+        "problemID": "PY01006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LÃI SUẤT NGÂN HÀNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01007",
+        "problemID": "PY01007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHỮ HOA – CHỮ THƯỜNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01009",
+        "problemID": "PY01009",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LIỆT KÊ SỐ ĐẸP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01011",
+        "problemID": "PY01011",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ƯỚC SỐ CHUNG NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01013",
+        "problemID": "PY01013",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHIA HẾT CHO K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01014",
+        "problemID": "PY01014",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ KHÔNG GIẢM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01015",
+        "problemID": "PY01015",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "GIẢI MÃ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01016",
+        "problemID": "PY01016",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MÃ HÓA 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01017",
+        "problemID": "PY01017",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MÃ HÓA 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01018",
+        "problemID": "PY01018",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KHOẢNG CÁCH KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01019",
+        "problemID": "PY01019",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ PHÁT LỘC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01020",
+        "problemID": "PY01020",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PHÂN TÍCH THỪA SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01023",
+        "problemID": "PY01023",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHẴN - LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01024",
+        "problemID": "PY01024",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHÈN DẤU PHẨY",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01025",
+        "problemID": "PY01025",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ ĐẢO NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01029",
+        "problemID": "PY01029",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01030",
+        "problemID": "PY01030",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BỘ BA NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01033",
+        "problemID": "PY01033",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TỔNG PHÂN THỨC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01036",
+        "problemID": "PY01036",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ PHẢN NGUYÊN TỐ NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01037",
+        "problemID": "PY01037",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA CHIA HẾT CHO 7",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01038",
+        "problemID": "PY01038",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA SỐ ĐẸP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01039",
+        "problemID": "PY01039",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ TĂNG GIẢM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01041",
+        "problemID": "PY01041",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA HỆ CƠ SỐ 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01042",
+        "problemID": "PY01042",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ THUẬN NGHỊCH CHẴN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01043",
+        "problemID": "PY01043",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XÂU PALINDROME",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01045",
+        "problemID": "PY01045",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "THÁP HÀ NỘI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01046",
+        "problemID": "PY01046",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHỮ SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01049",
+        "problemID": "PY01049",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KÝ TỰ A – B – C",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01050",
+        "problemID": "PY01050",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG CHỮ SỐ THUẬN NGHỊCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01051",
+        "problemID": "PY01051",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG CHỮ SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01052",
+        "problemID": "PY01052",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍCH CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01054",
+        "problemID": "PY01054",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ XEN KẼ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01055",
+        "problemID": "PY01055",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHẴN – LẺ - NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01056",
+        "problemID": "PY01056",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "VỊ TRÍ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01057",
+        "problemID": "PY01057",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐOẠN CUỐI NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01058",
+        "problemID": "PY01058",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG CHỮ SỐ - TÍCH CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01059",
+        "problemID": "PY01059",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍCH CHỮ SỐ - TỔNG CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01060",
+        "problemID": "PY01060",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẦU CUỐI NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01061",
+        "problemID": "PY01061",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ƯU THẾ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01062",
+        "problemID": "PY01062",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẾM SỐ TRONG XÂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01063",
+        "problemID": "PY01063",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XÂU “THĂNG BẰNG”",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01066",
+        "problemID": "PY01066",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PYTHON FILE",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01071",
+        "problemID": "PY01071",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BÀI TOÁN TỔ HỢP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01072",
+        "problemID": "PY01072",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "HOÁN VỊ KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01073",
+        "problemID": "PY01073",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG ƯỚC SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01074",
+        "problemID": "PY01074",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TRÒ CHƠI TRÊN ĐƯỜNG THẲNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01075",
+        "problemID": "PY01075",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ NGUYÊN LỚN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01076",
+        "problemID": "PY01076",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LIỆT SỐ FIBONACCI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02002",
+        "problemID": "PY02002",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY SỐ HAMMING",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02003",
+        "problemID": "PY02003",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY SỐ NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02004",
+        "problemID": "PY02004",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CẶP NGHỊCH THẾ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02005",
+        "problemID": "PY02005",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY SỐ PHÙ HỢP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02006",
+        "problemID": "PY02006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHIA DƯ CHO 42",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02007",
+        "problemID": "PY02007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KHOẢNG CÁCH NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02008",
+        "problemID": "PY02008",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TRÚNG THƯỞNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02009",
+        "problemID": "PY02009",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BIẾN ĐỔI VỀ 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02013",
+        "problemID": "PY02013",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BIẾN ĐỔI DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02015",
+        "problemID": "PY02015",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XUẤT HIỆN NHIỀU LẦN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02016",
+        "problemID": "PY02016",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ NHỎ NHẤT CÒN THIẾU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02018",
+        "problemID": "PY02018",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02019",
+        "problemID": "PY02019",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH ĐIỂM TRUNG BÌNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02020",
+        "problemID": "PY02020",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LIỆT KÊ SỐ NGUYÊN TỐ TRONG DÃY",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02022",
+        "problemID": "PY02022",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP XẾP THEO TỔNG CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02023",
+        "problemID": "PY02023",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP XẾP THEO TÍCH CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02024",
+        "problemID": "PY02024",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02031",
+        "problemID": "PY02031",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LIỆT KÊ CẶP SỐ NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02036",
+        "problemID": "PY02036",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MA TRẬN - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02039",
+        "problemID": "PY02039",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MA TRẬN - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02040",
+        "problemID": "PY02040",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐOẠN LIÊN TIẾP NHỎ HƠN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02050",
+        "problemID": "PY02050",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH CÂN ĐỐI CỦA MA TRẬN - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02053",
+        "problemID": "PY02053",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BÀI D. BỘI SỐ CHUNG NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02060",
+        "problemID": "PY02060",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TÍCH CHẬP MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02061",
+        "problemID": "PY02061",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XỬ LÝ VĂN BẢN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03007",
+        "problemID": "PY03007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BẢNG XẾP HẠNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03012",
+        "problemID": "PY03012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP POINT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04001",
+        "problemID": "PY04001",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP RECTANGLE",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04002",
+        "problemID": "PY04002",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP PHÂN SỐ - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04003",
+        "problemID": "PY04003",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP PHÂN SỐ - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04004",
+        "problemID": "PY04004",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP TRIANGLE - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04005",
+        "problemID": "PY04005",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP TRIANGLE - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04006",
+        "problemID": "PY04006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP MATRIX - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04007",
+        "problemID": "PY04007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP MATRIX - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04008",
+        "problemID": "PY04008",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP SỐ PHỨC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04009",
+        "problemID": "PY04009",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LỚP THÍ SINH - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04010",
+        "problemID": "PY04010",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TOÁN LƯỢNG MƯA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04013",
+        "problemID": "PY04013",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BẢNG ĐIỂM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04014",
+        "problemID": "PY04014",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LẬP HÓA ĐƠN - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04015",
+        "problemID": "PY04015",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TUYỂN NHÂN VIÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04019",
+        "problemID": "PY04019",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TOÁN THỜI GIAN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04021",
+        "problemID": "PY04021",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐỔI CƠ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT037",
+        "problemID": "PYKT037",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "HỆ CƠ SỐ 8",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT038",
+        "problemID": "PYKT038",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY SỐ PHÙ HỢP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT039",
+        "problemID": "PYKT039",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẾM CẶP ĐỒNG XU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT041",
+        "problemID": "PYKT041",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA CHIA HẾT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT065",
+        "problemID": "PYKT065",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY CON NGẮN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT066",
+        "problemID": "PYKT066",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ KHÔNG GIẢM TRONG FILE NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT071",
+        "problemID": "PYKT071",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XOAY VÒNG XÂU KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT072",
+        "problemID": "PYKT072",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XÁC ĐỊNH THỂ LOẠI THƠ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT073",
+        "problemID": "PYKT073",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "GỬI THÔNG BÁO",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT074",
+        "problemID": "PYKT074",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SAO CHÉP DANH BẠ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT075",
+        "problemID": "PYKT075",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP XẾP DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT078",
+        "problemID": "PYKT078",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐIỀN SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT079",
+        "problemID": "PYKT079",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "THỐNG KÊ DỊCH TỄ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT080",
+        "problemID": "PYKT080",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐỊA CHỈ IP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT081",
+        "problemID": "PYKT081",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH ĐIỂM THI IELTS",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT082",
+        "problemID": "PYKT082",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "THU PHÍ XE Ô TÔ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT083",
+        "problemID": "PYKT083",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CÂU HỎI THEO CHỦ ĐỀ - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT084",
+        "problemID": "PYKT084",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CÂU HỎI THEO CHỦ ĐỀ - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT085",
+        "problemID": "PYKT085",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHUYỂN ĐỔI NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT086",
+        "problemID": "PYKT086",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ ĐẶC BIỆT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT087",
+        "problemID": "PYKT087",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ CÓ 9 ƯỚC SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT088",
+        "problemID": "PYKT088",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP XẾP CHẴN LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT089",
+        "problemID": "PYKT089",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐỈNH THẮT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/ICPC0058",
+        "problemID": "ICPC0058",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "CHÈN XÂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01012",
+        "problemID": "PY01012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍNH TỔNG CÁC CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01021",
+        "problemID": "PY01021",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TỔNG CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01022",
+        "problemID": "PY01022",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SẮP ĐẶT LẠI XÂU KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01026",
+        "problemID": "PY01026",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ LỘC PHÁT ĐẸP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01027",
+        "problemID": "PY01027",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐỔI CƠ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01031",
+        "problemID": "PY01031",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "HỆ CƠ SỐ 8",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01035",
+        "problemID": "PY01035",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "XỬ LÝ XÂU KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01044",
+        "problemID": "PY01044",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "KÝ TỰ THỨ K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01064",
+        "problemID": "PY01064",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "PHÉP TOÁN CƠ BẢN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01065",
+        "problemID": "PY01065",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ 2 ƯU THẾ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01067",
+        "problemID": "PY01067",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐẶT TÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01068",
+        "problemID": "PY01068",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LỚN NHẤT VÀ NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02010",
+        "problemID": "PY02010",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIẾN ĐỔI VỀ DÃY BẰNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02011",
+        "problemID": "PY02011",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SẮP XẾP CHẴN LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02012",
+        "problemID": "PY02012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIẾN ĐỔI NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02014",
+        "problemID": "PY02014",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÂN SUẤT LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02017",
+        "problemID": "PY02017",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DÃY CON CHUNG CỦA BA DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02021",
+        "problemID": "PY02021",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TẬP HỢP SỐ NGUYÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02025",
+        "problemID": "PY02025",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TẬP HỢP SỐ BẰNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02026",
+        "problemID": "PY02026",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SẮP XẾP NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02028",
+        "problemID": "PY02028",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BẦU CỬ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02029",
+        "problemID": "PY02029",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "PHÂN CHIA NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02030",
+        "problemID": "PY02030",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LIỆT KÊ CÁC SỐ CÓ HAI CHỮ SỐ TĂNG DẦN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02032",
+        "problemID": "PY02032",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LIỆT KÊ CÁC SỐ CÓ HAI CHỮ SỐ THEO THỨ TỰ XUẤT HIỆN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02033",
+        "problemID": "PY02033",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐẾM CÁC SỐ CÓ HAI CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02034",
+        "problemID": "PY02034",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "NGƯỠNG TỐI THIỂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02035",
+        "problemID": "PY02035",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐẾM CẶP ĐỒNG XU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02038",
+        "problemID": "PY02038",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TỔNG SỐ NGUYÊN LỚN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02041",
+        "problemID": "PY02041",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "HIỆU SỐ NGUYÊN LỚN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02042",
+        "problemID": "PY02042",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐẾM SỐ TRONG XÂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02043",
+        "problemID": "PY02043",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÁCH ĐÔI VÀ TÍNH TỔNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02045",
+        "problemID": "PY02045",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "PHÂN CHIA NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02046",
+        "problemID": "PY02046",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÁCH NHÓM TỐI ƯU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02048",
+        "problemID": "PY02048",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "KHÔI PHỤC DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02051",
+        "problemID": "PY02051",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍNH CÂN ĐỐI CỦA MA TRẬN - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02052",
+        "problemID": "PY02052",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIẾN ĐỔI VỀ MA TRẬN VUÔNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02054",
+        "problemID": "PY02054",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ NGUYÊN TỐ LỚN NHẤT TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02055",
+        "problemID": "PY02055",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ THUẬN NGHỊCH LỚN NHẤT TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02056",
+        "problemID": "PY02056",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ MAY MẮN TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02057",
+        "problemID": "PY02057",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ ĐẸP TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02058",
+        "problemID": "PY02058",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ NGUYÊN TỐ TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02059",
+        "problemID": "PY02059",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍCH LỚN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02063",
+        "problemID": "PY02063",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIỂU THỨC TOÁN HỌC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02064",
+        "problemID": "PY02064",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BÀI TOÁN ĐẾM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02066",
+        "problemID": "PY02066",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DÃY SỐ TƯƠNG THÍCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02067",
+        "problemID": "PY02067",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "XỬ LÝ ẢNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02068",
+        "problemID": "PY02068",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ THUẬN NGHỊCHTRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02069",
+        "problemID": "PY02069",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TỔNG CÁC SỐ TỰ NHIÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02071",
+        "problemID": "PY02071",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐOẠN CON TRUNG BÌNH LỚN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02072",
+        "problemID": "PY02072",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TĂNG - GIẢM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02078",
+        "problemID": "PY02078",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "THỐNG KÊ TỪ KHÁC NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03004",
+        "problemID": "PY03004",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "THỐNG KÊ TỪ KHÁC NHAU THEO NGƯỠNG K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03005",
+        "problemID": "PY03005",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐỒ THỊ HÌNH SAO",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03008",
+        "problemID": "PY03008",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐẾM CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03013",
+        "problemID": "PY03013",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIỂU THỨC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03014",
+        "problemID": "PY03014",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍNH ĐIỂM CHUYÊN CẦN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04012",
+        "problemID": "PY04012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LẬP HÓA ĐƠN - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04016",
+        "problemID": "PY04016",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍNH VẬN TỐC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04017",
+        "problemID": "PY04017",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "XÁC ĐỊNH TRÚNG TUYỂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04018",
+        "problemID": "PY04018",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LẬP HÓA ĐƠN - 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04020",
+        "problemID": "PY04020",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐỈNH THẮT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT058",
+        "problemID": "PYKT058",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "THÀNH PHẦN LIÊN THÔNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT059",
+        "problemID": "PYKT059",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "ĐỒ THỊ ĐẦY ĐỦ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT060",
+        "problemID": "PYKT060",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "KHÔNG CÙNG THÀNH PHẦN LIÊN THÔNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT064",
+        "problemID": "PYKT064",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "HOÁN VỊ NGƯỢC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT067",
+        "problemID": "PYKT067",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DANH SÁCH MÔN THI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT068",
+        "problemID": "PYKT068",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DANH SÁCH EMAIL",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT090",
+        "problemID": "PYKT090",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LOẠI BỎ SỐ NGUYÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT098",
+        "problemID": "PYKT098",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SỐ THUẬN NGHỊCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01032",
+        "problemID": "PY01032",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐỔI CHỖ CÁC CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01034",
+        "problemID": "PY01034",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "MÃ HÓA 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01040",
+        "problemID": "PY01040",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TỔNG LIÊN TIẾP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01048",
+        "problemID": "PY01048",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "CHỮ SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01069",
+        "problemID": "PY01069",
+        "problemStatus": "Incomplete",
+        "problemTopic": "BIẾN VÀ KIỂU DỮ LIỆU ĐƠN GIẢN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "BÀI TOÁN HÌNH HỌC - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY01070",
+        "problemID": "PY01070",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÁCH SỐ VÀ SẮP XẾP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02027",
+        "problemID": "PY02027",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ƯỚC SỐ CỦA GIAI THỪA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02049",
+        "problemID": "PY02049",
+        "problemStatus": "Incomplete",
+        "problemTopic": "CÂU LỆNH RẼ NHÁNH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "DÃY SỐ ĐỘC ĐẮC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02062",
+        "problemID": "PY02062",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐẾM CẶP SỬ DỤNG STACK",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03016",
+        "problemID": "PY03016",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SỐ BƯỚC DI CHUYỂN ÍT NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY03018",
+        "problemID": "PY03018",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "XẾP NHÓM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY0314",
+        "problemID": "PY0314",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "LỚN HƠN – NHỎ HƠN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY04011",
+        "problemID": "PY04011",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "DANH SÁCH CA THI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT069",
+        "problemID": "PYKT069",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SẮP XẾP LỊCH THI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT070",
+        "problemID": "PYKT070",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "DANH SÁCH PHIM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT076",
+        "problemID": "PYKT076",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "LỊCH THI HỌC KỲ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT077",
+        "problemID": "PYKT077",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐIỂM TUYỂN SINH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT092",
+        "problemID": "PYKT092",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÍNH ĐIỂM TRUNG BÌNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT093",
+        "problemID": "PYKT093",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÍNH LƯƠNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT094",
+        "problemID": "PYKT094",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÍNH TIỀN ĐIỆN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT095",
+        "problemID": "PYKT095",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "CHUẨN HÓA CÂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT097",
+        "problemID": "PYKT097",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "HIỆU CỦA HAI TẬP TỪ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT099",
+        "problemID": "PYKT099",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "PHÂN HOẠCH DÂN CƯ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12005",
+        "problemID": "PYKT12005",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "KHUYẾN MẠI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12006",
+        "problemID": "PYKT12006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TRAINING HỆ THỐNG A.I",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12007",
+        "problemID": "PYKT12007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "MUA QUÀ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12008",
+        "problemID": "PYKT12008",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "DÃY SỐ YẾU NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12009",
+        "problemID": "PYKT12009",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "MÁI NHÀ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12010",
+        "problemID": "PYKT12010",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "XÁC SUẤT CHỌN BIT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12011",
+        "problemID": "PYKT12011",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "VẪN LÀ XÁC SUẤT CHỌN BIT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12012",
+        "problemID": "PYKT12012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "PHẦN TỬ CHỐT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12019",
+        "problemID": "PYKT12019",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "PHÉP TOÁN OR",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12022",
+        "problemID": "PYKT12022",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "2X-Y",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12026",
+        "problemID": "PYKT12026",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐẾM CẶP NGHỊCH THẾ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT12027",
+        "problemID": "PYKT12027",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÌM CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13006",
+        "problemID": "PYKT13006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÍNH TỔNG 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13009",
+        "problemID": "PYKT13009",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SỐ LỚN NHẤT VÀ NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13014",
+        "problemID": "PYKT13014",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TÍNH LŨY THỪA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13015",
+        "problemID": "PYKT13015",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SỐ MŨ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13016",
+        "problemID": "PYKT13016",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐOÀN QUÂN TỐC HÀNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13025",
+        "problemID": "PYKT13025",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "HÌNH TRÒN - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13039",
+        "problemID": "PYKT13039",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "HÌNH TRÒN - 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13040",
+        "problemID": "PYKT13040",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "CÂN BẰNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14004",
+        "problemID": "PYKT14004",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "PHÉP TOÁN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14006",
+        "problemID": "PYKT14006",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐẦU BẾP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14019",
+        "problemID": "PYKT14019",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐỘI QUÂN HOÀNG GIA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14020",
+        "problemID": "PYKT14020",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "GIÁ TRỊ NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14023",
+        "problemID": "PYKT14023",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TRÒ CHƠI TRÍ TUỆ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14031",
+        "problemID": "PYKT14031",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "TAM GIÁC VUÔNG CÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2041",
+        "problemID": "PYKT2041",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "GHÉP CẶP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2042",
+        "problemID": "PYKT2042",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ỨNG DỤNG STACK TRONG PYTHON",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2048",
+        "problemID": "PYKT2048",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "BÌNH THÔNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2049",
+        "problemID": "PYKT2049",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "XỬ LÝ RỜI RẠC HÓA DỮ LIỆU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2052",
+        "problemID": "PYKT2052",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "PHÂN HOẠCH TẬP HỢP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2053",
+        "problemID": "PYKT2053",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SỐ ĐẶC BIỆT (bản khó)",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2077",
+        "problemID": "PYKT2077",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "K BIT 0",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2078",
+        "problemID": "PYKT2078",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "SỐ LỘC PHÁT (bản khó)",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2079",
+        "problemID": "PYKT2079",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "XÂU CON",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2080",
+        "problemID": "PYKT2080",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "DIỆN TÍCH TOÀN PHẦN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02065",
+        "problemID": "PY02065",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "DI CHUYỂN TỐI ƯU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02091",
+        "problemID": "PY02091",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "BÀI TOÁN HÌNH HỌC - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02092",
+        "problemID": "PY02092",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "BÀN CỜ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02095",
+        "problemID": "PY02095",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "VỊ TRÍ CHẴN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02096",
+        "problemID": "PY02096",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "DÃY CON TĂNG DÀI NHẤT 2 CHIỀU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02097",
+        "problemID": "PY02097",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "TỔNG CHUỖI MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13007",
+        "problemID": "PYKT13007",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "GIẢI HỆ PHƯƠNG TRÌNH TUYẾN TÍNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13008",
+        "problemID": "PYKT13008",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "TÍNH TỔNG 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13010",
+        "problemID": "PYKT13010",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "QUÂN MÃ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13011",
+        "problemID": "PYKT13011",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "TỔNG FIBONACCI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13012",
+        "problemID": "PYKT13012",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "TÍNH TỔNG TRÊN MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13013",
+        "problemID": "PYKT13013",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "BỘ BA SỐ PYTAGO (bản khó)",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13017",
+        "problemID": "PYKT13017",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "GHÉP HÌNH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13026",
+        "problemID": "PYKT13026",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "HÌNH TRÒN - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13038",
+        "problemID": "PYKT13038",
+        "problemStatus": "Incomplete",
+        "problemTopic": "ĐỐI TƯỢNG",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "HEXAGRAM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14003",
+        "problemID": "PYKT14003",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "DÃY BÍT NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT14034",
+        "problemID": "PYKT14034",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "THIẾT KẾ ĐẬP THỦY ĐIỆN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT2047",
+        "problemID": "PYKT2047",
+        "problemStatus": "Incomplete",
+        "problemTopic": "TỪ ĐIỂN",
+        "problemDifficulty": "4"
+    },
+    {
+        "problemName": "MA TRẬN CON TỔNG BẰNG K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PY02090",
+        "problemID": "PY02090",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "5"
+    },
+    {
+        "problemName": "DIỆN TÍCH TAM GIÁC - 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/PYKT13034",
+        "problemID": "PYKT13034",
+        "problemStatus": "Incomplete",
+        "problemTopic": "DANH SÁCH",
+        "problemDifficulty": "5"
+    }
+]
