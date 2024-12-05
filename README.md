@@ -16,7 +16,7 @@
 
 Clone code về bằng cách tải Zip hoặc chạy cli:
 
-``git clone https://github.com/n0xgg04/CODE_PTIT_SUBMIT_UPD``
+```git clone https://github.com/n0xgg04/CODE_PTIT_SUBMIT_UPD.git```
 
 sau đó mở thư mục chứa code (chứa file ``.env``) trong VSCode
 
