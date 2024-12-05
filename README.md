@@ -78,16 +78,6 @@ JSON.stringify(Array.from(document.querySelectorAll('select#compiler option')).f
 })))
 ```
 
-#### Một số id sẵn cho bạn
-
-##### COURSE ID
-
-- Python : 759
-- Java OOP: 744
-  
-##### LANG ID
-- JAVA 3
-- PYTHON 4
 
 ### Chuẩn bị source code:
 
