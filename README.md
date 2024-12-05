@@ -1,4 +1,6 @@
-## CODE PTIT AUTO SUBMIT VERSION 2.0
+# CODE PTIT AUTO SUBMIT VERSION 2.0
+
+> Chạy KPI CodePTIT
 
 @Author: [n0xgg04](https://github.com/n0xgg04)
 
@@ -9,6 +11,15 @@
 ### Installation:
 
 - Install package
+
+1. PULL CODE
+
+Clone code về bằng cách tải Zip hoặc chạy cli:
+
+``git clone https://github.com/n0xgg04/CODE_PTIT_SUBMIT_UPD``
+
+sau đó mở thư mục chứa code (chứa file ``.env``) trong VSCode
+
 
 Cài đặt các lib cần thiết để chạy tool:
 
@@ -77,6 +88,13 @@ JSON.stringify(Array.from(document.querySelectorAll('select#compiler option')).f
 ##### LANG ID
 - JAVA 3
 - PYTHON 4
+
+### Chuẩn bị source code:
+
+- Tìm 1 source nào tín tín, có tên file chứa mã bài (Ví dụ: ``HELLOJAR.java`` , ``HELLOJAR - BAITAP.java``,...) miễn là chứa mã bài, tải đủ về
+- Copy source vào thư mục ``/src/resources/code``
+
+> Tool sẽ lấy tool từ đây và tự động nộp
 
 
 ### Run tool
